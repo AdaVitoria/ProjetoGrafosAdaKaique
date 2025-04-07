@@ -1,0 +1,37 @@
+# Arquivos de byte-code Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição / empacotamento
+dist/
+build/
+*.egg-info/
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de saída gerados pelo script
+graph_statistics.json
+shortest_paths.json
+
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Arquivos específicos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo

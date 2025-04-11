@@ -205,4 +205,4 @@ Distribuído sob licença educacional, para uso não comercial e acadêmico.
 
 ---
 
-Desenvolvido por [Seu Nome](https://github.com/AdaVitoria) e **Kaique** — 2025
+Desenvolvido por [Ada Vitória](https://github.com/AdaVitoria) e [Kaique Salvador](https://github.com/kaique-salvador) — 2025
